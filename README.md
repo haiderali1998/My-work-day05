@@ -30,3 +30,7 @@ THEN the saved events persist
 ## Github URL
 
 https://github.com/haiderali1998/My-work-day05
+
+## URL
+
+https://haiderali1998.github.io/My-work-day05/
